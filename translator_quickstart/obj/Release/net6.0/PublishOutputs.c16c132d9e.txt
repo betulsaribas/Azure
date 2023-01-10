@@ -1,0 +1,6 @@
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/bin/Release/net6.0/publish/translator_quickstart
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/bin/Release/net6.0/publish/translator_quickstart.dll
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/bin/Release/net6.0/publish/translator_quickstart.deps.json
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/bin/Release/net6.0/publish/translator_quickstart.runtimeconfig.json
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/bin/Release/net6.0/publish/translator_quickstart.pdb
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/bin/Release/net6.0/publish/Newtonsoft.Json.dll

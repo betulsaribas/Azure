@@ -1,0 +1,17 @@
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/bin/Release/net6.0/translator_quickstart
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/bin/Release/net6.0/translator_quickstart.deps.json
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/bin/Release/net6.0/translator_quickstart.runtimeconfig.json
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/bin/Release/net6.0/translator_quickstart.dll
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/bin/Release/net6.0/translator_quickstart.pdb
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/bin/Release/net6.0/Newtonsoft.Json.dll
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/obj/Release/net6.0/translator_quickstart.csproj.AssemblyReference.cache
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/obj/Release/net6.0/translator_quickstart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/obj/Release/net6.0/translator_quickstart.AssemblyInfoInputs.cache
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/obj/Release/net6.0/translator_quickstart.AssemblyInfo.cs
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/obj/Release/net6.0/translator_quickstart.csproj.CoreCompileInputs.cache
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/obj/Release/net6.0/translator_quickstart.csproj.CopyComplete
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/obj/Release/net6.0/translator_quickstart.dll
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/obj/Release/net6.0/refint/translator_quickstart.dll
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/obj/Release/net6.0/translator_quickstart.pdb
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/obj/Release/net6.0/translator_quickstart.genruntimeconfig.cache
+/Users/denizacar/Projects/translator_quickstart/translator_quickstart/obj/Release/net6.0/ref/translator_quickstart.dll

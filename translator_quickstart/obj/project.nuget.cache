@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bMTpOk1wlptN0gR33gb9RiF5sJSEEfbvg5jVBk1yW90oxe7HBsnD51fktqSdegLtBIsEAYURoaeR0W3fmC5awg==",
+  "success": true,
+  "projectFilePath": "/Users/denizacar/Projects/translator_quickstart/translator_quickstart/translator_quickstart.csproj",
+  "expectedPackageFiles": [
+    "/Users/denizacar/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
